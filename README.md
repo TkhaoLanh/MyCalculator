@@ -6,6 +6,7 @@ The app also uses view objects, constraits, and stack views to create a simple c
 ### Prerequisites
 - Swift
 - Story board
+- Xcode
 
 ## Demo
 
